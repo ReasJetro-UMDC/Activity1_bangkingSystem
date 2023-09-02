@@ -24,7 +24,7 @@ public class JavaApplication16 {
         List<Integer> deposits = new ArrayList<>();
         int balance = 0;
          while (true) {
-            System.out.println("Menu:");
+            System.out.println("Menuasdasxfa:");
             System.out.println("1. Deposit money");
             System.out.println("2. Withdraw money");
             System.out.println("3. View current balance");
